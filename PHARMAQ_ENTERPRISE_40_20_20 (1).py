@@ -176,5 +176,5 @@ elif module == "Food-Drug Interaction Checker":
 # ------------------ Guidelines Footer ------------------
 st.markdown('<div class="footer-box">⚠ GUIDELINES: For educational use only. '
             'Always verify dosing, patient history, pregnancy status, renal/hepatic function. '
-            'Refer immediately in emergency symptoms like chest pain, stroke signs, anaphylaxis, severe bleeding.</div>', 
+            'Refer immediately in emergency symptoms like chest pain, stroke signs, anaphylaxis, severe bleeding,DEV BY:LALITH AND TANUJ.</div>', 
             unsafe_allow_html=True)

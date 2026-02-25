@@ -32,7 +32,7 @@ module = st.radio(
 st.divider()
 
 # ======================================================
-# 1️⃣ SYMPTOM TO OTC (40 Entries)
+# 1️⃣ SYMPTOM TO OTC 
 # ======================================================
 
 if module == "Symptom to OTC":
